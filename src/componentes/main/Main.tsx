@@ -3,6 +3,7 @@ import Filme from "../filme/Filme";
 import axios from "axios";
 import './Main.css';
 
+
 type FilmesType = {
   id: number;
   titulo: string;
